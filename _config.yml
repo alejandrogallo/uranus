@@ -15,7 +15,7 @@ title: Uranus blog
 email: info@uranusin.space
 description: > # this means to ignore newlines until "baseurl:"
   Some stuff about this and that...
-baseurl: "/uranus/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://uranusin.space" # the base hostname & protocol for your site
 github_username:  alejandrogallo
 
