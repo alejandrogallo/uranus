@@ -23,5 +23,7 @@ github_username:  alejandrogallo
 markdown: kramdown
 #theme: minima
 
+exclude: [vendor]
+
 sass:
   sass_dir: ./css
