@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2016-08-29 11:59:55 +0200
+author: Ale
 categories: jekyll
 ---
 
